@@ -252,7 +252,7 @@
             "showSubTitle": true
           },
           "title": "РЕГИСТРАЦИЯ НА ВЕБИНАР",
-          "subtitle": "Дата вебинара будет определена по мере формирования группы.<br>Укажите Ваш Email в расположенной ниже форме,<br>чтобы мы могли сообщить вам о дате вебинара.",
+          "subtitle": "Дата вебинара будет определена по мере формирования группы.<br>Укажите Ваш Email в расположенной ниже форме,&nbsp;чтобы <br>мы могли сообщить вам о дате проведения вебинара.",
           "form": {
             "action": "selpo@mail.ru",
             "alerts": {
@@ -265,7 +265,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ЗАРЕГИСТРИРОВАТЬСЯ</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ПОДТВЕРЖДАЮ</a>"
         }
       ]
     }
